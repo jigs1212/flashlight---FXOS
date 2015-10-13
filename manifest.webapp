@@ -1,0 +1,26 @@
+{
+	"name": "Flasher",
+	"launch_path": "/index.html",
+	"version": "1.2.2",
+	"description": "Camera Flash used as torch, and screen background also to be changed to white",
+	"developer": {
+		"name": "Jigar",
+		"email": "jigar.lodaya12@gmail.com"
+	},
+	"type": "privileged",
+	"fullscreen": "true",
+	"permissions": {
+		"camera": {
+			"description": "Controlling the camera flash for torch feature"
+		}
+	},
+	"icons": {
+		"16": "/icons/icon16x16.png",
+		"48": "/icons/icon48x48.png",
+		"60": "/icons/icon60x60.png",
+		"64": "/icons/icon64x64.png",
+		"128": "/icons/icon128x128.png",
+		"256": "/icons/icon256x256.png",
+		"512": "/icons/icon512x512.png"
+	}
+}
